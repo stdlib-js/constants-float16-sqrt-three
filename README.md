@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT16_SQRT3 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-sqrt-three@esm/index.mjs';
+import FLOAT16_SQRT3 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-sqrt-three@v0.1.0-esm/index.mjs';
 ```
 
 #### FLOAT16_SQRT3
@@ -72,7 +72,7 @@ var bool = ( FLOAT16_SQRT3 === 1.732421875 );
 <body>
 <script type="module">
 
-import FLOAT16_SQRT3 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-sqrt-three@esm/index.mjs';
+import FLOAT16_SQRT3 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-sqrt-three@v0.1.0-esm/index.mjs';
 
 console.log( FLOAT16_SQRT3 );
 // => 1.732421875
